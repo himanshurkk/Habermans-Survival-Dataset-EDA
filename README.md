@@ -6,4 +6,4 @@ Dataset is available at https://www.kaggle.com/gilsousa/habermans-survival-data-
 
 In statistics, exploratory data analysis (EDA) is an approach to analyzing data sets to summarize their main characteristics, often with visual methods.
 
-I have uploaded both .ipynb and .pdf for better understanding and reference.
+I have uploaded both .ipynb and .HTML file for better understanding and reference.
